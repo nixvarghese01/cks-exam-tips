@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [ggnanasekaran77/cks-exam-tips](https://github.com/ggnanasekaran77/cks-exam-tips) as a reference for **CKS exam tips**. Used while preparing for the CKS certification.
+> All credit for the content goes to the original authors.
+
 # CKS Exam Hints
 
 ## Useful Links 
